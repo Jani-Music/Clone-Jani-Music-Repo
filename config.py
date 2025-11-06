@@ -57,7 +57,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 SOURCE = getenv("SOURCE", "https://github.com/TEAM-ISTKHAR/ARISHFA_MUSIC")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ISTKHAROP/Chutlund",
+    "https://github.com/Jani-Music/Clone-Jani-Music-Repo",
 
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
